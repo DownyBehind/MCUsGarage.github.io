@@ -16,6 +16,8 @@
 
 CSMA/CD는 Carrier Sense Multiple Access/Collision Detection의 약자이다.
 
+{% include_relative EtherNet/1_0_EtherNet_Basic.md %}
+
 {% include_relative EtherNet/1_1_CSMA_CD.md %}
 
 {% include_relative EtherNet/1_2_HowTheEthernetProtocolWorks.md %}

@@ -2,6 +2,13 @@
 
 Concept of I2C
 
+## 1.0 I2C Basic
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/K2K1XUz4mZo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## 1.1. Introduce I2C
 
 > I2C 는 Philips Semicondoctors 에서 1982년에 개발된 통신 방식이다.

@@ -1,6 +1,13 @@
 # 1. Prologue
 Concept of CAN
 
+## 1.0 CAN ID Basic
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nsxn8YsTjMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## 1.1. Concerning CAN
 
 > CAN은 자동차 산업 분야에 적용하기 위해 고안된 직렬 통신 프로토콜이다.

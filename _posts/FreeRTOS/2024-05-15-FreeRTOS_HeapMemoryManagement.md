@@ -10,6 +10,13 @@ author: Hoseok Lee
 ## 1. Overview
 In this chapter, we will explore what 'Heap' means in terms of C programming and Microprocessor. Then, we will examine several features that FreeRTOS provides. In modern operating systems, numerous applications run concurrently, and each application should allocate a suitable Heap region owned by itself to manipulate data dynamically. Otherwise, the system will crash. As a quick aside, in Over-The-Air (OTA) systems, when deleting an old application and installing a new one on the operating system, managing the Heap (RAM) region reserved for them is crucial to prevent system malfunctions. Therefore, understanding the Heap will help you become a competent C programmer.
 
+## 1-0. FreeRTOS Heap Basic
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/o4RsFG_gTU8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 ## 2. Introduction
 Heap memory is a scheme for accessing RAM in a CPU or Microprocessor dynamically. Here, I want to emphasize the terms <b>'Dynamic'</b> and <b>'RAM'</b>. Unlike the 'Stack', which is allocated statically as a memory region in RAM, the Heap is a memory region allocated dynamically during program runtime. If you have experience with using <b>'malloc()'</b> and <b>'free()'</b>, you'll understand this concept.
 
