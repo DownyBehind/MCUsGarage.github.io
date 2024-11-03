@@ -1,5 +1,14 @@
 # 1. Prologue
 
+## 1.0 CAN ID Basic
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nsxn8YsTjMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+## 1.1. Concerning CAN
+
 자동차 내부 통신을 위해 가장 많이 사용되는 CAN 프로토콜에 대해서 배울 것이다.
 
 우선 CAN 프로토콜이 만들어지기 전의 상황을 간단하게 살펴보자.
