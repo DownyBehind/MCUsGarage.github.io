@@ -28,7 +28,6 @@ MCU 내부 모듈을 설명하면서 필요한 각종 표준에 대해서도 다
 
 <br>
 
-![image](../../assets/gitbook/images/coding.png){: width="100" height="100"}
 
 #### Leo Kim [Founder]
 
@@ -40,17 +39,31 @@ MCU 내부 모듈을 설명하면서 필요한 각종 표준에 대해서도 다
 
 <br>
 <br>
+
+#### D.G. Ko
+
+자동차 제어기 개발 2년+
+
 <br>
 <br>
+
+#### K.J. Cho
+
+산업용 제어기 개발 3년+
+
+자동차 제어기 개발 3년+
+
+항상 새로운 것을 만드는 것이 목표입니다.
+
+<br>
 <br>
 
+#### H.S. Lee
 
-#### DG Ko
+자동차 제어기 개발 10년+
 
-![DG_sapjil](../../assets/postsAssets/About/DG_sapjil.jpg){: width="100" }
-
-안녕하세요
-
-[github](https://github.com/dongjuk157)
-
-[Linkedin](https://www.linkedin.com/in/동건-고-64959b153)
+<br>
+<br><br>
+<br><br>
+<br><br>
+<br>
